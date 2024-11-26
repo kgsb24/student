@@ -17,7 +17,7 @@
 |-------|--------|------|
 |Python | ![check](/static/check.png)| [python.ipynb](/assignments/python.ipynb) |
 | Numpy | ![check](/static/check.png)| [numpy.ipynb](/assignments/numpy.ipynb) |
-| Pandas | ![check](/static/check.png)| [pandas.ipynb](/assignments/pandas.ipynb)
+| Pandas | ![check](/static/check.png)| [pandas.ipynb](/assignments/pandas.ipynb) |
 
 ## Week 3
 
@@ -31,7 +31,7 @@
 |-------|--------|------|
 |Python | ![check](/static/check.png)| [python.ipynb](/assignments/python.ipynb) |
 | Numpy | ![check](/static/check.png)| [numpy.ipynb](/assignments/numpy.ipynb) |
-| Pandas | ![check](/static/check.png)| [pandas.ipynb](/assignments/pandas.ipynb)
+| Pandas | ![check](/static/check.png)| [pandas.ipynb](/assignments/pandas.ipynb) |
 | Git | ![in-progress](/static/in-progress.png)| In-Progress |
 | Github | ![in-progress](/static/in-progress.png)| In-Progress |
 
